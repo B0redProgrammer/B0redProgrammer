@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @B0redProgrammer
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Deep Learning based mathematics
-- 🌱 I’m currently learning about Transformer Networks
-- 💞️ I’m looking to collaborate on any sort of python project. Programming is fun!
+- 👀 I’m interested in low level optimizations
+- 🌱 I’m currently learning about C++
+- 💞️ I’m looking to collaborate on any sort of project. Programming is fun!
 - 📫 You can reach me on incandelha@gmail.com
 
 <!---
